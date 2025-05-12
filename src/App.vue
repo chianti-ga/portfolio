@@ -242,7 +242,7 @@ const postes = [
     </div>
 
     <div class="footer-bottom">
-      <p>© 2024 Chianti GALLY</p>
+      <p>© 2025 Chianti GALLY</p>
     </div>
   </footer>
 </template>
