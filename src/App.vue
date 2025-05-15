@@ -50,10 +50,10 @@ const projets = [
     githubUrl: "https://github.com/chianti-ga/kanei"
   },
   {
-    label: "Application Launcher en Java",
+    label: "Chatbot en Java",
     date: "",
-    description: "Développement d'un lanceur d'application en Java utilisant JavaFX et Swing.",
-    githubUrl: "https://github.com/chianti-ga/botcore"
+    description: "Développement d'un chatbot en Java pour la platforme Discord.",
+    githubUrl: "https://github.com/chianti-ga/kanei"
   },
   {
     label: "Développement Full Stack en Rust",
