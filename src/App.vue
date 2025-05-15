@@ -52,7 +52,7 @@ const projets = [
   {
     label: "Chatbot en Java",
     date: "",
-    description: "Développement d'un chatbot en Java pour la platforme Discord.",
+    description: "Développement d'un chatbot en Java pour la plateforme Discord. Ce projet utilise le framework JDA, Hibernate pour interagir avec une base de données SQLite, Sentry pour le rapport d'erreurs et LavaPlayer pour le streaming audio.",
     githubUrl: "https://github.com/chianti-ga/kanei"
   },
   {
