@@ -86,6 +86,13 @@ const projets = [
 
 const postes = [
   {
+    label: "CDD Saisonnier en frais libre-service",
+    company: "Super U",
+    location: "Saint-Jean-de-Monts",
+    date: "2025",
+    description: "CDD Saisonnier en frais libre-service."
+  },
+  {
     label: "Assistant Paysagiste",
     company: "Artisan GALLY",
     location: "Saint-Jean-de-Monts",
@@ -98,13 +105,6 @@ const postes = [
     location: "Saint-Jean-de-Monts",
     date: "2017 - 2024",
     description: "Gestion des stocks, accueil personnalisé des clients et vente directe sur le marché."
-  },
-  {
-    label: "CDD Saisonnier en frais libre-service",
-    company: "Super U",
-    location: "Saint-Jean-de-Monts",
-    date: "2025",
-    description: "CDD Saisonnier en frais libre-service."
   }
 ];
 
