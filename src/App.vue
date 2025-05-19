@@ -80,6 +80,12 @@ const projets = [
         "Jupyter Notebook, " +
         "OpenSpeedTest",
     githubUrl: "https://uptime.skitou.fr/"
+  },
+  {
+    label: "watermark-cli",
+    date: "",
+    description: "Outil en ligne de commande développé en Rust pour ajouter des filigranes (watermarks) à des images et des documents PDF. L'outil est conçu pour aider à protéger les documents contre le vol d'identité. Inspiré de https://filigrane.beta.gouv.fr/",
+    githubUrl: "https://github.com/chianti-ga/watermark-cli"
   }
 ];
 
